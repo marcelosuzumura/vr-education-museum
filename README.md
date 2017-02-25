@@ -6,6 +6,7 @@
 - Download the Google VR SDK for Unity https://developers.google.com/vr/unity/get-started
 -- The version currently used is 1.20
 - Import Google VR SDK into the project
+- Built in Unity 5.5.0f3
 
 ### How to visit the Museum
 - Click the < and > buttons to read the text panels scattered around the Museum.
