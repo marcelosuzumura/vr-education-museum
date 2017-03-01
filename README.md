@@ -13,3 +13,7 @@
 - When finished reading the text, click the Dismiss button.
 - Navigate around by clicking on the green floating cubes.
 - I hope you enjoy your visit!
+
+### Licensing
+Image usage in this project are merely for educational purposes.
+Please do not redistribute the images contained in this project. They belong to their original authors, except for some public domain images from Wikipedia.
